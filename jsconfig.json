@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@thirdparty*": ["./node_modules/package-with-absolutes*"]
+    }
+  },
+}
